@@ -1,1 +1,6 @@
 #elemzes
+
+valami hardware ( arduino )
+időzítő algoritmus ( változót növel másodpercenként )
+másodperc érték átváltása -> perc -> óra
+
