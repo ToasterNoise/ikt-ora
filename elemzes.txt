@@ -1,6 +1,12 @@
 #elemzes
 
 valami hardware ( arduino )
+
 időzítő algoritmus ( változót növel másodpercenként )
 másodperc érték átváltása -> perc -> óra
+
+adott számok kiírása a kijelzőre algoritmus ( pozíció szerint )
+
+nyomógomb figyelő algoritmus
+A nyomógombra hőmérséklet, páratartalom kiíró algoritmus
 
