@@ -1,1 +1,9 @@
 #otlet
+
+
+óra 
+(7 szegmens kijelző pontos idő megjelenítése)
+óra perc másodperc
+nyomógombra hőmérséklet, páratartalom x másodpercig
+nyomógomb (másik) megnyomásánál óra beállítás potival pörgetve állítom
+valami extra(pl ébresztő vagy délben játsza le a jingle bellst)
